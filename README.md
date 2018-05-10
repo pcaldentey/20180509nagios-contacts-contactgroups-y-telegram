@@ -40,5 +40,5 @@ VBoxManage: error: Note! This error could also mean that an incompatible version
 VBoxManage: error: Details: code NS_ERROR_FAILURE (0x80004005), component ConsoleWrap, interface IConsole
 
 ```
-para solucionarlo, abrid virtualbox y el las setting de la máquina deshabilitad el controlador usb.
+para solucionarlo, abrid virtualbox y el las settings de la máquina deshabilitad el controlador usb.
 
